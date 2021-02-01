@@ -155,6 +155,14 @@
 	suffix = "lavaland_surface_ufo_crash.dmm"
 	cost = 5
 
+/datum/map_template/ruin/lavaland/lizards_past
+	name = "Lizard's Past"
+	id = "lizards-past"
+	description = "A lone crashed abductor cell with the numbers #14 blazoned upon the door..."
+	suffix = "lavaland_surface_lizards_past.dmm"
+	cost = 5
+	allow_duplicates = FALSE
+
 /datum/map_template/ruin/lavaland/xeno_nest
 	name = "Xenomorph Nest"
 	id = "xeno-nest"
