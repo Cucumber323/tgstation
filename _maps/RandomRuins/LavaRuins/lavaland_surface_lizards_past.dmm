@@ -1,0 +1,34 @@
+"a" = (/turf/closed/mineral/volcanic/lava_land_surface,/area/lavaland/surface/outdoors)
+"b" = (/turf/open/floor/plating/asteroid/basalt/lava_land_surface,/area/lavaland/surface/outdoors)
+"c" = (/turf/closed/wall/mineral/abductor,/area/lavaland/surface/outdoors)
+"d" = (/turf/closed/wall/mineral/abductor,/area/ruin/unpowered)
+"e" = (/turf/open/floor/plating/abductor{initial_gas_mix = "LAVALAND_ATMOS"},/area/lavaland/surface/outdoors)
+"f" = (/obj/structure/lattice,/turf/open/floor/plating/asteroid/basalt/lava_land_surface,/area/lavaland/surface/outdoors)
+"g" = (/obj/structure/bed/abductor,/obj/effect/decal/cleanable/blood/old,/turf/open/floor/plating/abductor{initial_gas_mix = "LAVALAND_ATMOS"},/area/ruin/unpowered)
+"h" = (/obj/structure/table/abductor,/turf/open/floor/plating/abductor{initial_gas_mix = "LAVALAND_ATMOS"},/area/ruin/unpowered)
+"i" = (/obj/effect/decal/cleanable/blood/old,/turf/open/floor/plating/abductor{initial_gas_mix = "LAVALAND_ATMOS"},/area/lavaland/surface/outdoors)
+"j" = (/obj/effect/spawner/structure/window/plasma/reinforced/plastitanium,/turf/open/floor/plating/abductor{initial_gas_mix = "LAVALAND_ATMOS"},/area/lavaland/surface/outdoors)
+"k" = (/turf/open/floor/plating/abductor{initial_gas_mix = "LAVALAND_ATMOS"},/area/ruin/unpowered)
+"l" = (/obj/item/restraints/handcuffs/alien,/turf/open/floor/plating/abductor{initial_gas_mix = "LAVALAND_ATMOS"},/area/ruin/unpowered)
+"m" = (/obj/effect/decal/cleanable/blood/old,/turf/open/floor/plating/abductor{initial_gas_mix = "LAVALAND_ATMOS"},/area/ruin/unpowered)
+"n" = (/obj/machinery/door/airlock/abductor{name = "Cell #14"},/obj/effect/decal/cleanable/blood/old,/turf/open/floor/plating/abductor{initial_gas_mix = "LAVALAND_ATMOS"},/area/ruin/unpowered)
+"o" = (/obj/item/organ/heart/gland/mindshock,/turf/open/floor/plating/abductor{initial_gas_mix = "LAVALAND_ATMOS"},/area/lavaland/surface/outdoors)
+"p" = (/obj/effect/mob_spawn/human/abductor,/turf/open/floor/plating/abductor{initial_gas_mix = "LAVALAND_ATMOS"},/area/lavaland/surface/outdoors)
+"q" = (/obj/structure/closet/abductor,/obj/item/clothing/under/abductor,/obj/item/clothing/glasses/eyepatch,/turf/open/floor/plating/abductor{initial_gas_mix = "LAVALAND_ATMOS"},/area/ruin/unpowered)
+"r" = (/obj/item/clothing/mask/muzzle,/turf/open/floor/plating/abductor{initial_gas_mix = "LAVALAND_ATMOS"},/area/ruin/unpowered)
+"s" = (/obj/structure/toilet{icon_state = "toilet00"; dir = 8},/turf/open/floor/plating/abductor{initial_gas_mix = "LAVALAND_ATMOS"},/area/ruin/unpowered)
+"t" = (/obj/item/scalpel/alien,/turf/open/floor/plating/abductor{initial_gas_mix = "LAVALAND_ATMOS"},/area/lavaland/surface/outdoors)
+"u" = (/obj/effect/spawner/structure/window/plasma/reinforced/plastitanium,/turf/open/floor/plating/abductor{initial_gas_mix = "LAVALAND_ATMOS"},/area/ruin/unpowered)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aabcbeecffcaabbbbbaaffaaabbaab
+aabdddddfefbbbcebbbeecbbbbfeeb
+aabdgkhdeibbbbfffbbbccbbfbbccb
+aaaulmknoebbbbbbbbbbbbbefbefbb
+aaadqrsdptbbbbbffbbbbbfeecefbb
+aabdddddjjfbbbbeefbcfbbfcccbbb
+aabbaaaabbcebbbccbeefbbbbbbbbb
+aaaaaaaeebbbbaaabbbfaaabbbaabb
+aaaaaaacaaaaaaaaaaaaaaaaaaaaaa
+"}
