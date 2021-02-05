@@ -94,9 +94,6 @@
 	},
 /turf/open/floor/plasteel/airless,
 /area/ruin/unpowered)
-"U" = (
-/turf/open/space/basic,
-/area/ruin/unpowered)
 
 (1,1,1) = {"
 a
@@ -59210,7 +59207,7 @@ a
 "}
 (231,1,1) = {"
 a
-U
+a
 a
 a
 a
